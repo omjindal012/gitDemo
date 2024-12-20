@@ -18,6 +18,8 @@
 
 8. (git log) -> to see the list of commits
 
+9. (git checkout (hash)) -> moves to that point of code
+
 
 
 
