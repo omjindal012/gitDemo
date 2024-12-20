@@ -40,4 +40,3 @@ yellow/green area -> addition
     <!-- git remote add origin https://github.com/omjindal012/gitDemo.git
     git branch -M main
     git push -u origin main -->
-3. 
