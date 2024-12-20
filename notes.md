@@ -1,3 +1,12 @@
+<!-- GIT -->
+
+U -> Untracked
+A -> Added
+M -> Modified
+
+red area -> deletion
+yellow/green area -> addition
+
 1. git init -> to enable git tracking
 
 2. (command + shift + .) -> to reveal hidden git folder in finder which is created when we executed the previous command
@@ -18,16 +27,17 @@
 
 8. (git log) -> to see the list of commits
 
-9. (git checkout (hash)) -> moves to that point of code
+9. (git checkout (commit-hash)) -> moves to that point of code
 
+10. (git branch) -> to check your branch name
 
+11. (git checkout (branch)) -> to comeback to the latest code 
 
+<!-- GITHUB -->
 
-
-
-U -> Untracked
-A -> Added
-M -> Modified
-
-red area -> deletion
-yellow/green area -> addition
+1. Create a repository in your github account where you want to save the changes
+2. Copy the code from (Push an existing repository from the command line)
+    <!-- git remote add origin https://github.com/omjindal012/gitDemo.git
+    git branch -M main
+    git push -u origin main -->
+3. 
