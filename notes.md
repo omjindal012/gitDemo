@@ -16,8 +16,7 @@
 
 7. (git commit -m "message") -> to commit the changes
 
-
-
+8. (git log) -> to see the list of commits
 
 
 
